@@ -1,4 +1,4 @@
-<h1 align = "center">Hey there, I'm Rohin 👋</h1>
+<h1 align = "center">Hey there, I'm Rohin<img src = "hi.gif" width = "40"></h1>
 <h3 align = "center">I am a Second Year, Computer Engineering Undergraduate, Mobile App Developer and Graphic Designer.</h3>
 
 <p align = "center">
