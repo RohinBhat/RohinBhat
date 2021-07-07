@@ -30,7 +30,7 @@
 	<img src = "https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
 	<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript" />
 	<br/>
-	<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt = "android" />
+	<img src = "https://img.shields.io/badge/Android-323330?style=for-the-badge&logo=android&logoColor=3DDC84" alt = "android" />
 	<img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt = "flutter" />
 	<img src = "https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=ffca28" alt = "firebase" />
 	<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
