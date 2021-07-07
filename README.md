@@ -44,10 +44,10 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 </p>
 
-<!-- <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=RohinBhat&theme=tokyonight&show_icons=true&count_private=true" />
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=RohinBhat&theme=tokyonight&show_icons=true&count_private=true" />
 	<br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=RohinBhat&theme=tokyonight" />
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohinBhat&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
-</p> -->
+</p>
