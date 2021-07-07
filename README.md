@@ -22,32 +22,30 @@
 	<strong>Languages and Technologies</strong>
 </p>
 <p align = "center">
-	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
-	<img src="https://img.shields.io/badge/Dart-3FC5FF?&style=for-the-badge&logo=dart&logoColor=00579d" alt="dart" />
-	<img src="https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-	<img src="https://img.shields.io/badge/Kotlin-F4750E?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
-	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+	<img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "c++" />
+	<img src = "https://img.shields.io/badge/Dart-3FC5FF?&style=for-the-badge&logo=dart&logoColor=00579d" alt = "dart" />
+	<img src = "https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+	<img src = "https://img.shields.io/badge/Kotlin-F4750E?&style=for-the-badge&logo=kotlin&logoColor=white" alt = "kotlin" />
+	<img src = "https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+	<img src = "https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+	<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript" />
 	<br/>
-	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
-	<img src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="firebase" />
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+	<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt = "android" />
+	<img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt = "flutter" />
+	<img src = "https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=ffca28" alt = "firebase" />
+	<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
+	<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt = "postman" />
+	<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt = "github" />
 	<br/>
-	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" />
-	<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="illustrator" />
-	<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black" alt="premiere" />
-	<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black" alt="adobe xd" />
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+	<img src = "https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt = "photoshop" />
+	<img src = "https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt = "illustrator" />
+	<img src = "https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=black" alt = "premiere pro" />
+	<img src = "https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black" alt = "adobe xd" />
+	<img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 </p>
 
-<p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=RohinBhat&theme=tokyonight&show_icons=true&count_private=true" />
+<p align = "center">
+	<img src = "https://github-readme-stats.vercel.app/api?username=RohinBhat&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=false" alt = "Rohin Bhat's Github Stats">
 	<br/>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=RohinBhat&theme=tokyonight" />
-	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohinBhat&theme=tokyonight&show_icons=true&count_private=true&layout=compact" />
+	<img src = "https://github-readme-streak-stats.herokuapp.com/?user=RohinBhat&theme=tokyonight" alt = "Rohin Bhat's Streak Stats">
 </p>
