@@ -45,7 +45,7 @@
 </p>
 
 <p align = "center">
-	<img src = "https://github-readme-stats.vercel.app/api?username=RohinBhat&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=false" alt = "Rohin Bhat's Github Stats">
+	<img src = "https://github-readme-stats.vercel.app/api?username=RohinBhat&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt = "Rohin Bhat's Github Stats">
 	<br/>
 	<img src = "https://github-readme-streak-stats.herokuapp.com/?user=RohinBhat&theme=tokyonight" alt = "Rohin Bhat's Streak Stats">
 </p>
