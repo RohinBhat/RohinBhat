@@ -37,7 +37,7 @@
 	<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
 	<br/>
 	<img src = "https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=ffca28" alt = "firebase" />
-	<img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql"/>
+	<img src = "https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql"/>
 	<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt = "postman" />
 	<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
 	<br/>
