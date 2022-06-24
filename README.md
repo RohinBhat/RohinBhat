@@ -16,7 +16,8 @@
 	<a href = "https://www.instagram.com/baronhere/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	<a href = "https://rohinbhat.me/" target = "_blank"><img src = "https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABm1BMVEUAAABmoP9nov9moP9nov9mn%2F9nov9nov9flOxlnv9nof9oo%2F9imvVmoP9oo%2F9ln%2FtmoP9nov9nov9ZjN9ln%2F9nof9oo%2F9fle5oo%2F9moP9moP9jm%2FdmoP9moP9nof9ln%2F1mof9IcLQjNFVSgMwsQ2sTGy0QFiU2U4UXIjcRGCcRGChBZKEdK0YQFyYRFydLdbslOFoRGSkQFiYQFiQ8XJQTHC4QFycYIzo4V4s8XZU8XZQ6WpAwSXYdK0cuRnAPFSQfL0xgl%2B1oo%2F9nov9mn%2F1bj%2BQ1UYMSGiwuR3Jfle1nof9lnvxZjN9ek%2BtmoP1jm%2FUtRW5elOwkN1kYJDsfLktKdLlKdLgSGitdkukdKkUPFiQOEyEvR3Nmn%2F5Tgs4VHzIhMU8UHTAZJDxFaqpoov9Nd75knfpVhdVSgc5Yit1lnvtlnvkxTHpmof9moP9opP9imfUUHS9imvZGbq9Hb7Fjm%2FZckOcgL00cKkVFa6pIcLNflOodLEccKkRXiNhmn%2Fo1UYI8XZY4VokXIjgmOl09XpYyTXwUHC%2F%2F%2F%2F%2B9aAsmAAAAIXRSTlMAAAAQYwZHuvoBLpzxGn3iDF3N%2FQRAs%2FiyCoruidsa2xp6Q8LKAAABRUlEQVQ4y53TSS9DURjG8effe801JLcNMcQQC0TEF2Avsff9LFlYSSwlRMROTEtEYkgrIdGo6vVYtA2tVsvZnt95cvIOqMnhjwBJbgxQAvmjinwHhIBsF10P0AmkkTO2864F0AOpckLWztnfAeoHUnwEyHHCWdvPpa8gSUSUnhclSaHtLLEfXQYMla5fJEm9hVhBaGeJ710GyYFBngeAd7UDj0bFfj88vVTAGONkggiwlABupLSvua6Acc9mXoOoCwodkEtyHqorffETFPoAcvkUJw1AGoDbEY6oD7oj4G6Y3bb6CYwCXE1ykK8PpkGnc8H%2B0g4NEmaAs3m2QjX65MTl1LEW7w5rEiqFWkiyt8z%2BEhs1haqUegU2vba9CutxVam%2FmhVKwZs6VN0sERH4l3Y3H5jmI9fC0LYw9i0sTvPV%2B9d2fwLm%2BtghwWn9KAAAAABJRU5ErkJggg%3D%3D"></a>
 	<a href = "https://dribbble.com/bhatrohin" target = "_blank"><img src = "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
-  <a href = "mailto:bhatrohin003@gmail.com/" target = "_blank"><img src = "https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  	<a href = "mailto:bhatrohin003@gmail.com/" target = "_blank"><img src = "https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href = "https://baronhere.medium.com/" target = "_blank"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 <p align = "center">
@@ -35,8 +36,10 @@
 	<img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt = "flutter" />
 	<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react native" />
 	<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
+	<img src = "https://img.shields.io/badge/tailwindcss-161d2d?style=for-the-badge&logo=tailwind-css&logoColor=16becb" alt = "react" />
 	<br/>
 	<img src = "https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=ffca28" alt = "firebase" />
+	<img src = "https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=00ed64" alt = "mongodb" />
 	<img src = "https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql"/>
 	<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt = "postman" />
 	<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
